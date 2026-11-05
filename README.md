@@ -23,7 +23,7 @@ I also publish **open tools** so other people can hunt remote jobs from Mexico, 
 | [airflow-bigquery-retail-elt](https://github.com/Eflores1122/airflow-bigquery-retail-elt) | Airflow ELT, incremental `MERGE`, DuckDB↔BigQuery shape, DQ gates |
 | [llm-document-validator-mx](https://github.com/Eflores1122/llm-document-validator-mx) | LLM-assisted MX document review, deterministic fallback, evals |
 | [logistics-data-quality-dashboard](https://github.com/Eflores1122/logistics-data-quality-dashboard) | YAML DQ checks, DuckDB, Streamlit control room |
-| [fintech-dbt-marts](https://github.com/Eflores1122/fintech-dbt-marts) | dbt staging → marts for a fictitious MX fintech |
+| [retail-dbt-marts](https://github.com/Eflores1122/retail-dbt-marts) | dbt staging → marts for a fictitious Mexican omnichannel retailer |
 | [streaming-events-warehouse](https://github.com/Eflores1122/streaming-events-warehouse) | Streaming events → warehouse (local broker + DuckDB) |
 | [fastapi-data-ingestion-avro](https://github.com/Eflores1122/fastapi-data-ingestion-avro) | FastAPI ingest, validation, AVRO backup |
 | [azure-adf-orders-pipeline](https://github.com/Eflores1122/azure-adf-orders-pipeline) | Azure Data Factory CSV → SQL with rejects |
